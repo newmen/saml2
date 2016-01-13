@@ -27,7 +27,8 @@
     },
     "autoload": {
         "psr-0": {
-            "SAML2_": "src/"
+            "SAML2_": "src/",
+            "SimpleSAML_": "src/"
         }
     },
     "autoload-dev": {
